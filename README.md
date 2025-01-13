@@ -4,7 +4,7 @@
 Welcome to Comfy Store, a React-based e-commerce project created as part of my React training journey!
 This app demonstrates essential React concepts and patterns, including state management, custom hooks, context API, and integration with third-party APIs.
 
-🌟 Live Demo: Comfy Store
+🌟 Live Demo: [Comfy Store](https://vercel.com/cys-projects-66803da9/comfy-store/6JLTJaKvBKJvqxrgnL1wVqeWHuLC)
 
 Features
 🛒 Dynamic Shopping Cart: Add, remove, and manage items in the cart.
